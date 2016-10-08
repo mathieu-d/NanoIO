@@ -1,14 +1,14 @@
 # NanoIO
 
-NanoIO is a basic set of classes to exange data over tcp between two devices running java.
+NanoIO is a basic set of classes to exchange data over tcp between two devices running Java.
 
-This is a first draft but it's doing the job.
+This is a first draft, but it's doing the job.
 
-I intend to make it lightweight and pure java.
+I intend to make it lightweight and pure Java.
 
-It should run on small embended devices like a Lego mindstorm EV3 brick, a raspberry pi or an android smartphone.
+It should run on small embedded devices like a Lego Mindstorm EV3 brick, a raspberry pi or an Android smartphone.
 
-All remarks and improvment proposales are welcomme but dont forget the watchwords : **lightweight and pure java**
+All remarks and improvement proposals are welcome, but don't forget the watchwords: **lightweight and pure Java**
 
 # Usage
 ### The packet
@@ -121,6 +121,6 @@ public class NanoIOTestClient implements NanoIOListener {
 }
 ```
 
-# Licence
+# License
 
 [GNU General Public License V3](https://www.gnu.org/licenses/gpl-3.0.html)
